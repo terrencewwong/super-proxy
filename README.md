@@ -5,7 +5,7 @@
 ## Installation
 **In a browser**
 ```
-<script src="http://unpkg.com/super-proxy@0.0.1/umd/super-proxy.js"></script>
+<script src="http://unpkg.com/super-proxy@0.0.2/umd/super-proxy.js"></script>
 ```
 **With npm**
 ```
