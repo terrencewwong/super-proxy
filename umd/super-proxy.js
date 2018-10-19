@@ -11,7 +11,7 @@
 
     return new Proxy(function () {}, {
       get: returnSuperProxy,
-      apply: returnSuperProxy
+      apply: returnSuperProxy,
       construct: returnSuperProxy
     });
   };
