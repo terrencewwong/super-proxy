@@ -1,6 +1,6 @@
 {
   "name": "super-proxy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "umd/super-proxy.js",
   "repository": "https://github.com/terrencewwong/super-proxy.git",
   "author": "Terrence Wong <wongterrencew@gmail.com>",
